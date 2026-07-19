@@ -1,0 +1,27 @@
+@charset "UTF-8"
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+     width: 500px;
+    background-color: #F2E6D8;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.427);
+    margin: auto;
+    padding: 10px;
+}
+body{
+    background-color: #F2B885;
+    text-align: justify;
+    background-image: image(imagens/selos.jpg);
+}
+h1{
+    color: #BF6363;
+    font-size: 20px;
+}
+h2{
+    color: #D98859;
+}
+li{
+    
+    mask-type: square;
+}
