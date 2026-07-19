@@ -11,8 +11,7 @@ main{
 }
 body{
     background-color: #F2B885;
-    text-align: justify;
-    background-image: image(imagens/selos.jpg);
+    text-align:justify
 }
 h1{
     color: #BF6363;
